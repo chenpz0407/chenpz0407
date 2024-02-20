@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pinzhang Chen @chenpz0407
-- 👀 I’m interested in cooking, photography, literature, travelling and popular science.
 - 🌱 I’m currently learning Python and LaTeX.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : chenpz0407@gmail.com
